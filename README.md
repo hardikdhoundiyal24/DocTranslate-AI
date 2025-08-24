@@ -1,9 +1,9 @@
 🤖 DocTranslate AI
-<div align="center">
+
 
 Translate PDF documents into structured Word files using the power of AI. DocTranslate.ai intelligently analyzes your PDF's layout, translates the content, and rebuilds it into a clean, editable .docx file.
 
-</div>
+
 
 ✨ Core Features
 🌐 Multi-Language Translation: Translate your documents into dozens of languages.
