@@ -1,0 +1,3 @@
+PyMuPDF
+httpx
+python-dotenv
